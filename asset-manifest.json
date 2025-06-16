@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mekuire-portfolio/static/css/main.1da024ea.css",
+    "main.js": "/mekuire-portfolio/static/js/main.950936f5.js",
+    "static/media/Oxanium.ttf": "/mekuire-portfolio/static/media/Oxanium.50bb18b058c797a89438.ttf",
+    "static/media/PhoenixGaming.ttf": "/mekuire-portfolio/static/media/PhoenixGaming.52b75a56ef9f70c20259.ttf",
+    "static/media/ZenDots.ttf": "/mekuire-portfolio/static/media/ZenDots.ad9e0d65654bb49213b6.ttf",
+    "static/media/PixelGame.otf": "/mekuire-portfolio/static/media/PixelGame.a7040ee1df82fd46813b.otf",
+    "index.html": "/mekuire-portfolio/index.html",
+    "main.1da024ea.css.map": "/mekuire-portfolio/static/css/main.1da024ea.css.map",
+    "main.950936f5.js.map": "/mekuire-portfolio/static/js/main.950936f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1da024ea.css",
+    "static/js/main.950936f5.js"
+  ]
+}
