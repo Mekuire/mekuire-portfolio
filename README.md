@@ -1,6 +1,8 @@
 
 # My Game Development Portfolio
-Link: https://github.com/solilius/portfolio-template
+
+Link: https://mekuire.github.io/mekuire-portfolio/
+
 This portfolio is made using the template: https://github.com/solilius/portfolio-template
 
 
